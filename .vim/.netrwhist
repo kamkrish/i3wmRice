@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/krishna/.config/Rice/yay'
+let g:netrw_dirhist_9='/home/krishna/.config/alacritty'
+let g:netrw_dirhist_8='/home/krishna/Rice/rofi/files'
+let g:netrw_dirhist_7='/home/krishna/.vim/plugged/nord-vim/colors'
+let g:netrw_dirhist_6='/home/krishna/.vim/plugged'
+let g:netrw_dirhist_5='/home/krishna/.config/polybar/shapes/scripts'
+let g:netrw_dirhist_4='/home/krishna/.config'
+let g:netrw_dirhist_3='/home/krishna/.config/rofi/themes'
+let g:netrw_dirhist_2='/home/krishna/.config/polybar'
+let g:netrw_dirhist_1='/home/krishna/.config/i3'
